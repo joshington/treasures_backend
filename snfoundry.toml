@@ -1,0 +1,4 @@
+[sncast.default]
+account = "user"
+accounts-file = "/home/punchu/.starkli-wallets/deployer/account.json"
+url = "https://free-rpc.nethermind.io/sepolia-juno"
